@@ -223,7 +223,7 @@ A structured, data-driven strategic plan can significantly enhance revenue, redu
 
 ## 👤 Author
 
-**Analyst:** *Patrick Mwangi Gichuki*
-**Portfolio:** [https://gichuki.site](https://gichuki.site)
+**Analyst:** *Patrick Gichuki*
+**GitHub:** [BIAnalyst-Patrick](https://github.com/BIAnalyst-Patrick)
 **LinkedIn:** [https://www.linkedin.com/in/patrick-gichuki-the-bi-analyst](https://www.linkedin.com/in/patrick-gichuki-the-bi-analyst)
 
